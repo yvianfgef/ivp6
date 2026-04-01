@@ -1,0 +1,7 @@
+{
+  "name": "ivp6-worker",
+  "version": "1.0.0",
+  "devDependencies": {
+    "wrangler": "^4.79.0"
+  }
+}
