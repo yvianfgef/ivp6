@@ -43,4 +43,11 @@ https://ivp6.706665168.workers.dev/?url=http://39.165.39.49:85/tsfile/live/1106_
 https://ivp6.706665168.workers.dev/?url=http://39.165.39.49:85/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="法制频道移动" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="未分组",法制频道移动
 https://ivp6.706665168.workers.dev/?url=http://39.165.39.49:85/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="电视剧频移动" tvg-logo="https://live.fanmingming.com/tv/.png" group-title
+#EXTINF:-1 tvg-name="电视剧频移动" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="未分组",电视剧频移动
+https://ivp6.706665168.workers.dev/?url=http://39.165.39.49:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新闻频道移动" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="未分组",新闻频道移动
+https://ivp6.706665168.workers.dev/?url=http://39.165.39.49:85/tsfile/live/1112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="公共频道移动" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="未分组",公共频道移动
+https://ivp6.706665168.workers.dev/?url=http://39.165.39.49:85/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="未分组",快乐垂钓
+https://ivp6.706665168.workers.dev/?url=http://39.165.39.49:85/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
